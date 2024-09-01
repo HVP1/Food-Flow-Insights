@@ -3,17 +3,17 @@
 
 ## Overview
 
-The Pizza Sales Project is a data analysis and visualization project aimed at analyzing and visualizing sales data from a fictional pizza restaurant chain. This project utilizes SQL for data extraction and transformation and Power BI for data visualization. The goal of this project is to provide insights and actionable information to help the pizza restaurant chain optimize its operations, improve sales, and enhance customer satisfaction.
+The Pizza Sales Project is a comprehensive data analysis and visualization initiative designed to explore and interpret sales data from a fictional pizza restaurant chain. This project leverages SQL for data extraction and transformation, combined with Power BI for creating insightful visualizations. The primary objective is to generate actionable insights that will enable the restaurant chain to optimize its operations, boost sales, and enhance customer satisfaction.
 
 ## Project Components
 
 ### 1. Data Acquisition
 
-The project begins with the acquisition of raw sales data. This data may include information such as customer orders, product details, order dates, and transaction amounts. Data can be obtained from various sources, including databases, CSV files, or other data storage systems.
+The project begins with the collection of raw sales data, which may include details such as customer orders, product specifications, order dates, and transaction amounts. This data can be sourced from various systems, including databases, CSV files, or other data storage platforms.
 
 ### 2. Data Transformation with SQL
 
-SQL (Structured Query Language) is used to clean, filter, and transform the raw data into a format suitable for analysis. This may involve tasks such as joining tables, aggregating data, handling missing values, and creating new calculated fields.
+SQL (Structured Query Language) is employed to clean, filter, and transform the raw data into an analysis-ready format. This process may involve tasks such as joining tables,using window functions , common table expressions , aggregating data, addressing missing values, and creating calculated fields.
 
 ### 3. Data Analysis
 
@@ -36,10 +36,9 @@ Power BI is used to create interactive and informative visualizations that showc
 
 ### Power BI Visualization
 
-![Dashboard 1](https://github.com/harsh-j-sharma/Pizza-Sales-Project-SQL-PowerBI/blob/main/PizzaSalesDashboard.png)
 
 
-![Dashboard 2](https://github.com/harsh-j-sharma/Pizza-Sales-Project-SQL-PowerBI/blob/main/PizzaSalesDashboard2.png)
+
 
 ### 5. Insights and Recommendations
 
